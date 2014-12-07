@@ -25,6 +25,6 @@
 }
 
 - (IBAction)buttonPushed:(id)sender {
-    NSLog(@"Button Pushed");
+    NSLog(@"Button Pushed!!");
 }
 @end
