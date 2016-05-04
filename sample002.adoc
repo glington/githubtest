@@ -1,0 +1,4 @@
+== asciidoctor で書いてみる
+
+
+include::master.adoc[]
